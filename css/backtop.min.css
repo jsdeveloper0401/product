@@ -1,0 +1,1 @@
+#backtop{position:fixed;bottom:-100px;right:30px;z-index:99;font-size:14px;font-family:sans-serif;border:none;outline:none;background-color:#02897a;-webkit-box-shadow:0 0 5px 5px #ab6767;box-shadow:0 0 5px 5px #ab6767;color:#fff;cursor:pointer;padding:15px;border-radius:50px;opacity:1;-webkit-transition:1s;transition:1s}#backtop.backtop-show{bottom:50px}

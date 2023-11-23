@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::after,
+*::before {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.5s ease;
+}
+html{
+  scroll-behavior:smooth;
+}
+*, *::after, *::before{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: .5s ease;
+}
+body{
+  position: relative;
+  transition: .5s;
+}
+ul, ol, li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+button {
+    cursor: pointer;
+    border: none;
+    white-space: nowrap;
+}
